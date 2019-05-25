@@ -43,4 +43,4 @@ else:
             save_as_csv(i, urls, A, headers, filename_1, filename_2)
 
         print('这一轮统计完毕')
-        time.sleep(1200) #循环检测，1小时检测一次，也可以添加window定时任务解决，或者挂到服务器上定时运行
+        time.sleep(3600) #循环检测，1小时检测一次，也可以添加window定时任务解决，或者挂到服务器上定时运行

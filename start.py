@@ -12,7 +12,7 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36',
     'X-Requested-With': 'XMLHttpRequest',
     'Host': 'www.qqshidao.com',
-    'Cookie': 'PHPSESSID=rvtklhs6u1fkv9q4066871rbe0; Hm_lvt_1cc6125513403f855d2a2484ef79b3b3=1555830801; Hm_lpvt_1cc6125513403f855d2a2484ef79b3b3=1555830892',
+    'Cookie': '这里添加你自己的cookie哦，我感觉没有cookie也无所谓',
 }
 
 '''请在date里修改你当前的日期,示例：'2018.5.23'

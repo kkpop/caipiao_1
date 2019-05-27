@@ -6,7 +6,7 @@
     2.同时，也支持对已采集数据的比赛进行结果统计，方便复盘分析。
     3.程序会自动剔除无竞彩数据且已经开赛的竞彩比赛进行统计
 ## 项目使用指南
-    项目从start.py文件启动，需要修改根据自己情况修改headers。
+    项目从start.py文件启动，需要修改根据自己情况修改headers,以及remove_useless_url 这个文件中headers
     同时，仍然需要变量date和is_chaxun_fenshu 这两个变量，具体如何修改见程序内备注
 ## 版本
     python3
